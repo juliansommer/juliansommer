@@ -10,8 +10,8 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
   </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://img.shields.io/github/go-mod/go-version/Go/:repo?style=flat-square&logo=go" alt="Go">
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://img.shields.io/github/go-mod/go-version/Go/style=flat-square&logo=go" alt="Go">
   </a>
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
