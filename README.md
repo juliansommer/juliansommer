@@ -1,7 +1,8 @@
 # Hi I'm Julian 👋 
 
 <p align="center">
-  <img height="50%" width="400" src="https://github-readme-stats-juliansommers-projects.vercel.app/api?username=juliansommer&show_icons=true&hide_title=true&count_private=true&&hide=contribs&include_all_commits=true&theme=tokyonight&bg_color=00000000&hide_border=true">
+  <img height="50%" width="400" src="https://github-readme-stats-juliansommers-projects.vercel.app/api?username=juliansommer&hide_title=true&hide_border=true&hide=contribs&count_private=true&&theme=tokyonight&bg_color=00000000&show_icons=true&include_all_commits=true">
+  <img height="50%" width="400" src ="https://github-readme-stats-juliansommers-projects.vercel.app/api/top-langs/?username=juliansommer&hide_title=true&hide_border=true&hide=contribs&count_private=true&theme=tokyonight&bg_color=00000000&layout=compac&langs_count=6&hide=jupyter%20notebook,tex,php">
 </p>
 
 ---
