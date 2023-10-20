@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
   </a>
   <a href="https://go.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Go?style=flat-square&logo=Go" alt="Go">
+    <img src="https://img.shields.io/badge/Go?style=flat-square&logo=go" alt="Go">
   </a>
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
