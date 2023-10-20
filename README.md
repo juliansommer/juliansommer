@@ -1,7 +1,7 @@
 # Hi I'm Julian 👋 
 
 <p align="center">
-  <img height="50%" width="400" src="https://github-readme-stats.vercel.app/api?username=juliansommer&show_icons=true&count_private=true&theme=tokyonight&bg_color=00000000&hide_border=true">
+  <img height="50%" width="400" src="https://github-readme-stats.vercel.app/api?username=juliansommer&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=00000000&hide_border=true">
   <img height="50%" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=juliansommer&theme=tokyonight&hide_border=true&background=FFFFFF00"">
 </p>
 
