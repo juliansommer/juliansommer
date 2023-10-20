@@ -2,7 +2,7 @@
 
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats-juliansommers-projects.vercel.app/api?username=juliansommer&hide_border=true&theme=tokyonight&bg_color=00000000&hide=contribs,issues&count_private=true&show_icons=true&include_all_commits=true">
-  <img height="50%" width="auto" src ="https://github-readme-stats-juliansommers-projects.vercel.app/api/top-langs/?username=juliansommer&hide_border=true&count_private=true&theme=tokyonight&bg_color=00000000&layout=compact&langs_count=6&hide=jupyter%20notebook">
+  <img height="50%" width="auto" src ="https://github-readme-stats-juliansommers-projects.vercel.app/api/top-langs/?username=juliansommer&hide_border=true&count_private=true&theme=tokyonight&bg_color=00000000&layout=compact&langs_count=6&hide=jupyter%20notebook&exclude_repo=github-readme-stats">
 </p>
 
 ---
