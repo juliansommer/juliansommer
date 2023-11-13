@@ -1,6 +1,6 @@
 # Hi I'm Julian 👋
 
-idk what to write here
+Software Engineer In Training
 
 ---
 <p align="center">
