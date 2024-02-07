@@ -15,7 +15,7 @@ Full Stack Software Engineer
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   </a>
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+    <img src="https://img.shields.io/badge/javascript-%23000.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   </a>
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.shields.io/badge/react-%2307405e.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
