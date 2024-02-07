@@ -23,6 +23,9 @@ Full Stack Software Engineer
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-%234ea94b.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+  </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   </a>
