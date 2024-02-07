@@ -20,7 +20,7 @@ Full Stack Software Engineer
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   </a>
   <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
+    <img src="https://img.shields.io/badge/react-%2307405e.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
