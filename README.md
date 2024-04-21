@@ -9,6 +9,9 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript/" target="_blank">
     <img src="https://img.shields.io/badge/javascript-%23000.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   </a>
