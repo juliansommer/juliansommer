@@ -2,12 +2,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-lac-18.vercel.app/api?username=juliansommer&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=trues&show_icons=true&include_all_commits=true&hide=contribs,issues">
-    <img src="https://github-readme-stats-nine-lac-18.vercel.app/api?username=juliansommer&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,issues">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-lac-18.vercel.app/api?username=juliansommer&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=trues&show_icons=true&hide=contribs,issues&include_all_commits=true">
+    <img src="https://github-readme-stats-nine-lac-18.vercel.app/api?username=juliansommer&hide_border=true&count_private=true&show_icons=true&hide=contribs,issues&include_all_commits=true">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000&count_private=true&hide=jupyter%20notebook,html,css">
-    <img src="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&hide_border=true&layout=compact&count_private=true&hide=jupyter%20notebook,html,css">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000&hide=jupyter%20notebook,html,css&count_private=true">
+    <img src="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&hide_border=true&layout=compact&hide=jupyter%20notebook,html,css&count_private=true">
   </picture>
 </p>
 
