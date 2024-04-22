@@ -1,8 +1,10 @@
 # Hi I'm Julian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats-juliansommers-projects.vercel.app/api?username=juliansommer&hide_border=true&theme=tokyonight&bg_color=00000000&hide=contribs,issues&count_private=true&show_icons=true&include_all_commits=true">
-  <img height="50%" width="auto" src ="https://github-readme-stats-juliansommers-projects.vercel.app/api/top-langs/?username=juliansommer&hide_border=true&count_private=true&theme=tokyonight&bg_color=00000000&layout=compact&langs_count=4&hide=jupyter%20notebook,html,css&exclude_repo=github-readme-stats">
+  <img height="50%" width="auto" src="https://github-readme-stats-nine-lac-18.vercel.app
+/api?username=juliansommer&hide_border=true&theme=tokyonight&bg_color=00000000&hide=contribs,issues&count_private=true&show_icons=true&include_all_commits=true">
+  <img height="50%" width="auto" src ="https://github-readme-stats-nine-lac-18.vercel.app
+/api/top-langs/?username=juliansommer&hide_border=true&count_private=true&theme=tokyonight&bg_color=00000000&layout=compact&langs_count=4&hide=jupyter%20notebook,html,css&exclude_repo=github-readme-stats">
 </p>
 
 <p align="center">
