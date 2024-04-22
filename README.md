@@ -1,18 +1,16 @@
 # Hi I'm Julian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-[//]: # (Images change depending on GitHub theme)
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-lac-18.vercel.app/api?username=juliansommer&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs,issues&show_icons=true&include_all_commits=true">
     <img src="https://github-readme-stats-nine-lac-18.vercel.app/api?username=juliansommer&hide_border=true&count_private=true&hide=contribs,issues&show_icons=true&include_all_commits=true">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=jupyter%20notebook,html,css">
-    <img src="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&layout=compact&hide_border=true&count_private=true&hide=jupyter%20notebook,html,css">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=jupyter%20notebook,html,css&layout=compact">
+    <img src="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&hide_border=true&count_private=true&hide=jupyter%20notebook,html,css&layout=compact">
   </picture>
 </p>
 
-[//]: # (Images are done this way so that there is no link on hover)
 <p align="center">
   <picture>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
