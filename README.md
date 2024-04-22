@@ -1,9 +1,10 @@
 # Hi I'm Julian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-<p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats-nine-lac-18.vercel.app/api?username=juliansommer&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs,issues&show_icons=true&include_all_commits=true">
-  <img height="50%" width="auto" src ="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs/?username=juliansommer&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&layout=compact&langs_count=4">
-</p>
+[![GitHub Stats-Dark](https://github-readme-stats-nine-lac-18.vercel.app/api?username=juliansommer&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs,issues&show_icons=true&include_all_commits=truek#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats-Light](https://github-readme-stats-nine-lac-18.vercel.app/api?username=juliansommer&hide_border=true&count_private=true&hide=contribs,issues&show_icons=true&include_all_commits=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs-Dark](https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=jupyter%20notebook,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs-Light](https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&hide_border=true&count_private=true&hide=jupyter%20notebook,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
