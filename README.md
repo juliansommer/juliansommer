@@ -1,7 +1,11 @@
 # Hi I'm Julian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px" height="23px">
 
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left">🖥️ I'm a Fullstack Developer from Australia<br>🔭 I’m working as a Junior Fullstack Developer at Metatrail<br>📚 I'm currently learning Next.js</p>
+<p align="left">
+  🖥️ I'm a Fullstack Developer from the Sunshine Coast<br>
+  🔭 I’m working as a Junior Fullstack Developer at Metatrail<br>
+  📚 I'm currently learning Next.js
+</p>
 
 <h3 align="left">🛠 I Code In </h3>
 <div align="left">
