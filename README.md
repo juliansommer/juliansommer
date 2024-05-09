@@ -7,7 +7,7 @@
   📚 I'm currently learning Next.js
 </p>
 
-<h3 align="left">🛠 I Code In </h3>
+<h3 align="left">🛠 Technologies</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"  />
   <img width="6" />
@@ -20,9 +20,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js Logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go Logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwindcss Logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="MongoDB Logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker Logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
 </div>
 
-<h3 align="left">🔥 Stats</h3>
+<h3 align="left">📈 Stats</h3>
 <p align="left">
   <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-lac-18.vercel.app/api?username=juliansommer&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=trues&show_icons=true&hide=contribs%2Cissues&include_all_commits=true&disable_animations=true" height="150" alt="GitHub Stats">
