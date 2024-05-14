@@ -33,13 +33,7 @@
 </div>
 
 <h3 align="left">📈 Stats</h3>
-<p align="left">
-  <picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-lac-18.vercel.app/api?username=juliansommer&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=trues&show_icons=true&hide=contribs%2Cissues&include_all_commits=true" height="150" alt="GitHub Stats">
-    <img src="https://github-readme-stats-nine-lac-18.vercel.app/api?username=juliansommer&hide_border=true&count_private=true&show_icons=true&hide=contribs%2Cissues&include_all_commits=true" height="150" alt="GitHub Stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000&hide=css%2Chtml%2Cjupyter%20notebook&count_private=true" height="150" alt="GitHub Top Languages">
-    <img src="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&hide_border=true&layout=compact&hide=css%2Chtml%2Cjupyter%20notebook&count_private=true" height="150" alt="GitHub Top Languages">
-  </picture>
-</p>
+<div align="left">
+  <img src="https://github-readme-stats-nine-lac-18.vercel.app/api?username=juliansommer&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=trues&show_icons=true&hide=contribs%2Cissues&include_all_commits=true" height="150" alt="GitHub Stats">
+  <img src="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000&hide=css%2Chtml%2Cjupyter%20notebook&count_private=true" height="150" alt="GitHub Top Languages">
+</div>
