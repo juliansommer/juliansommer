@@ -2,7 +2,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">
-  🖥️ I'm a Fullstack Developer from Australia<br>
+  🖥️ I'm a Fullstack Developer from the Sunshine Coast<br>
   🔭 I’m working as a Junior Fullstack Developer at Metatrail<br>
   📚 I'm currently learning Next.js
 </p>
