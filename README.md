@@ -3,7 +3,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">
   🖥️ Fullstack Developer from Australia<br>
-  🔭 Computer Sciuence Student at UTS<br>
+  🔭 Computer Science Student at UTS<br>
 <!--   📚 I'm currently learning Next.js<br> -->
   📧 Contact me at hi@julians.au<br>
 </p>
