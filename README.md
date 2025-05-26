@@ -34,7 +34,7 @@
     <img src="https://github-readme-stats-nine-lac-18.vercel.app/api?username=juliansommer&hide_border=true&count_private=true&show_icons=true&hide=contribs%2Cissues&include_all_commits=true" height="150" alt="GitHub Stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000&hide=css%2Chtml%2Cjupyter%20notebook&count_private=true" height="150" alt="GitHub Top Languages">
-    <img src="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&hide_border=true&layout=compact&hide=css%2Chtml%2Cjupyter%20notebook&count_private=true" height="150" alt="GitHub Top Languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000&hide=jupyter%20notebook&count_private=true&langs_count=4" height="150" alt="GitHub Top Languages">
+    <img src="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&hide_border=true&layout=compact&hide=jupyter%20notebook&count_private=true&langs_count=4" height="150" alt="GitHub Top Languages">
   </picture>
 </div>
