@@ -3,7 +3,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">
   🖥️ Fullstack Developer from Australia<br>
-  🔭 Junior Systems Engineer at at Mulga Defense Corporation<br>
+  🔭 Junior Systems Engineer at at Mulga DC<br>
 <!--   📚 I'm currently learning Next.js<br> -->
   📧 Contact me at hi@julians.au<br>
 </p>
