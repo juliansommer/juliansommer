@@ -25,11 +25,11 @@
 <h3 align="left">📈 Stats</h3>
 <div align="left">
   <picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-lac-18.vercel.app/api?username=juliansommer&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&show_icons=true&hide=contribs%2Cissues&include_all_commits=true&custom_title=GitHub%20Stats" height="150" alt="GitHub Stats">
-    <img src="https://github-readme-stats-nine-lac-18.vercel.app/api?username=juliansommer&hide_border=true&count_private=true&show_icons=true&hide=contribs%2Cissues&include_all_commits=true&custom_title=GitHub%20Stats" height="150" alt="GitHub Stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-frontend-lyart-rho.vercel.app/api?username=juliansommer&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&show_icons=true&hide=contribs%2Cissues&include_all_commits=true&custom_title=GitHub%20Stats" height="150" alt="GitHub Stats">
+    <img src="https://github-stats-extended-frontend-lyart-rho.vercel.app/api?username=juliansommer&hide_border=true&count_private=true&show_icons=true&hide=contribs%2Cissues&include_all_commits=true&custom_title=GitHub%20Stats" height="150" alt="GitHub Stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000&hide=jupyter%20notebook%2Cplpgsql&count_private=true&langs_count=4&custom_title=Top%20Languages" height="150" alt="Top Languages">
-    <img src="https://github-readme-stats-nine-lac-18.vercel.app/api/top-langs?username=juliansommer&hide_border=true&layout=compact&hide=jupyter%20notebook%2Cplpgsql&count_private=true&langs_count=4&custom_title=Top%20Languages" height="150" alt="Top Languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-frontend-lyart-rho.vercel.app/api/top-langs?username=juliansommer&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000&hide=jupyter%20notebook%2Cplpgsql&count_private=true&langs_count=4&custom_title=Top%20Languages" height="150" alt="Top Languages">
+    <img src="https://github-stats-extended-frontend-lyart-rho.vercel.app/api/top-langs?username=juliansommer&hide_border=true&layout=compact&hide=jupyter%20notebook%2Cplpgsql&count_private=true&langs_count=4&custom_title=Top%20Languages" height="150" alt="Top Languages">
   </picture>
 </div>
